@@ -3,6 +3,7 @@ CARA INSTALL ALAT :
 chmod +x install.sh
 
 Jalankan:
+
 ./install.sh
 
 Opsi Tambahan (jika mau diaktifkan):
